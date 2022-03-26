@@ -1,0 +1,15 @@
+.flag{
+    width: 500px;
+    height: 306px;
+    background-color: darkgreen;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 50%;
+}
